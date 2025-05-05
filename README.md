@@ -1,12 +1,27 @@
-# Test-1 Repository
+# Basic Calculator
 
-This is a README file for the Test-1 repository
+This program is a basic calculator that runs in the command line interface (CLI). It allows users to perform addition, subtraction, multiplication, and division.
 
-## About main.py
+## Usage
 
-The main.py file contains a basic calculator program that runs in the command-line interface (CLI). It allows users to perform addition, subtraction, multiplication, and division operations.
+1.  Run the `main.py` script.
+2.  Select an operation by entering the corresponding number (1 for Add, 2 for Subtract, 3 for Multiply, 4 for Divide).
+3.  Enter the first number.
+4.  Enter the second number.
+5.  The result will be displayed.
+6.  The program will ask if you want to perform another calculation. Enter "yes" to continue or "no" to exit.
 
+## Example
 
-Dr. Kalam dedicated Ignited Minds to an intermediate school child he met at a school. While talking to students, a question came up: "Who is our enemy?" Kalam recalled that many answers were given, but the one which all agreed upon came from student Snehal Thakkar: "Our enemy is poverty." This small book of 205 pages examines attitudes afflicting Indians today and presents prescriptions for the rapid growth of India to enable the country to emerge as a developed country. Kalam addressed the book to the young citizens of India. The book saw increased demand following the death of Dr. Abdul Kalam in 2015.[3]
-
-Author: Shri
+```
+Select operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Enter choice(1/2/3/4): 1
+Enter first number: 5
+Enter second number: 3
+5.0 + 3.0 = 8.0
+Let's do next calculation? (yes/no): no
+```
